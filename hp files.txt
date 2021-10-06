@@ -1,0 +1,4 @@
+hp file1 
+radeon intel i3
+del
+enter
