@@ -3,4 +3,13 @@ radeon intel i3
 del
 enter
 
+
+
+graphics 
+power off
+ shutdown
+ power on
+ 
+
 core 1 
+
