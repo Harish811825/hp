@@ -10,3 +10,6 @@ power off
  shutdown
  power on
  
+
+core 1 
+
