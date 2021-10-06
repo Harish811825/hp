@@ -2,3 +2,11 @@ hp file1
 radeon intel i3
 del
 enter
+
+
+
+graphics 
+power off
+ shutdown
+ power on
+ 
